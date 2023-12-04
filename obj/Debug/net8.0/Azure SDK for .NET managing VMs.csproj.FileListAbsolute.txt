@@ -1,0 +1,28 @@
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure SDK for .NET managing VMs.exe
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure SDK for .NET managing VMs.deps.json
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure SDK for .NET managing VMs.runtimeconfig.json
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure SDK for .NET managing VMs.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure SDK for .NET managing VMs.pdb
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure.Core.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure.Identity.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure.ResourceManager.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure.ResourceManager.Compute.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Azure.ResourceManager.Resources.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Azure SDK for .NET managing VMs\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.csproj.AssemblyReference.cache
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.AssemblyInfoInputs.cache
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.AssemblyInfo.cs
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.csproj.CoreCompileInputs.cache
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.csproj.CopyComplete
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.dll
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\refint\Azure SDK for .NET managing VMs.dll
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.pdb
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\Azure SDK for .NET managing VMs.genruntimeconfig.cache
+C:\Azure SDK for .NET managing VMs\obj\Debug\net8.0\ref\Azure SDK for .NET managing VMs.dll
